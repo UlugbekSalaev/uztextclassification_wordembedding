@@ -25,3 +25,11 @@ This project:
 
 - **Morphological stemming improves all models**, especially n‑gram and embedding‑based methods.  
 - **BERT achieves the highest overall F1‑score** but benefits less from stemming due to subword tokenization.  
+
+## Article of the project
+@article{salaev2025,
+  title={A Neural Network Model for Uzbek Text Classification under Morphological Processing},
+  author={Salaev, Ulugbek and Matlatipov, Gayrat},
+  journal={arxiv},
+  year={2025}
+}
